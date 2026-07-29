@@ -93,20 +93,5 @@ Switch ช่วยให้การสื่อสารภายในเค�
 
 ---
 
-## ตัวอย่างการทำงานร่วมกัน
-
-```text
-                     Internet
-                         |
-                         |
-                      Router
-                         |
-                 +-------+-------+
-                 |               |
-               Switch          Switch
-                 |               |
-          +------+------+        +---------+
-          |      |      |        |         |
-         PC    Server   AP    Printer      PC
 
 *[← Back to Profile](https://jittraporn928262-bit.github.io)*
